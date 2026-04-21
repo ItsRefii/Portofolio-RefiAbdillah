@@ -168,6 +168,10 @@ section {
   text-align: center;
 }
 
+.footer{
+  text-align: center;
+}
+
 /* DARK MODE */
 .dark {
     background: #1c1c1c;
