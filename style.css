@@ -168,8 +168,9 @@ section {
   text-align: center;
 }
 
-.footer{
+.footer p{
   text-align: center;
+  justify-content: center;
 }
 
 /* DARK MODE */
